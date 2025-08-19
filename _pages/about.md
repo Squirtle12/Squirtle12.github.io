@@ -7,8 +7,8 @@ author_profile: true
 
 Education
 ======
-* M.E. in Harbin, Harbin Institute of Technology, 2023-2026(expected)
-* B.E. in Weihai, Harbin Institute of Technology, 2019-2023
+* M.S. in Information and Communication Engineering, Beijing University of Posts and Telecommunications, 2018
+* B.S. in Electronic Information Engineering, Northeast Agricultural University, 2014
 
 Work Experience
 ======

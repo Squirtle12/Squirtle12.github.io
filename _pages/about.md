@@ -16,6 +16,6 @@ Work for the ACoder team
 
 Interests 
 ======
-LLM4Code
-Agentic AI
-RAG
+* LLM4Code
+* Agentic AI
+* RAG

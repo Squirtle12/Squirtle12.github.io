@@ -14,7 +14,8 @@ Work Experience
 ======
 Alibaba – Beijing
 AI Engineer, Front-end 
-* 2021 - Present
+2021 - Present
+* Played a key role in driving AI initiatives to enhance R&D efficiency and reshape development paradigms.
 * Served as a core contributor to the ACoder initiative, propelling its 0-to-1 development by designing and implementing key functionalities.
 
 Interests 
